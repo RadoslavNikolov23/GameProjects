@@ -1,4 +1,4 @@
-﻿using System;
+8﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -55,7 +55,7 @@ namespace HangmanGame
             Acura,
             AlfaRomeo,
             AstonMartin,
-            AUDI,
+            Audi,
             Bentley,
             BMW,
             Bugatti,
